@@ -1,0 +1,26 @@
+--cpu=Cortex-M4.fp.sp
+"chode\startup_stm32f407xx.o"
+"chode\main.o"
+"chode\stm32f4xx_it.o"
+"chode\stm32f4xx_hal_msp.o"
+"chode\stm32f4xx_hal_tim.o"
+"chode\stm32f4xx_hal_tim_ex.o"
+"chode\stm32f4xx_hal_uart.o"
+"chode\stm32f4xx_hal_rcc.o"
+"chode\stm32f4xx_hal_rcc_ex.o"
+"chode\stm32f4xx_hal_flash.o"
+"chode\stm32f4xx_hal_flash_ex.o"
+"chode\stm32f4xx_hal_flash_ramfunc.o"
+"chode\stm32f4xx_hal_gpio.o"
+"chode\stm32f4xx_hal_dma_ex.o"
+"chode\stm32f4xx_hal_dma.o"
+"chode\stm32f4xx_hal_pwr.o"
+"chode\stm32f4xx_hal_pwr_ex.o"
+"chode\stm32f4xx_hal_cortex.o"
+"chode\stm32f4xx_hal.o"
+"chode\stm32f4xx_hal_exti.o"
+"chode\system_stm32f4xx.o"
+--strict --scatter "chode\chode.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "chode.map" -o chode\chode.axf

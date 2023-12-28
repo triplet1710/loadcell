@@ -1,0 +1,38 @@
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\thanhgyza\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\thanhgyza\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\thanhgyza\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\thanhgyza\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\thanhgyza\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\thanhgyza\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\thanhgyza\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\thanhgyza\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\thanhgyza\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\thanhgyza\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\thanhgyza\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\thanhgyza\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\HK231\HTDKN\BTL\CodeChinh\WindowsFormsApp1 (1)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\HK231\HTDKN\BTL\CodeChinh\WindowsFormsApp1 (1)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\HK231\HTDKN\BTL\CodeChinh\WindowsFormsApp1 (1)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\HK231\HTDKN\BTL\CodeChinh\WindowsFormsApp1 (1)\WindowsFormsApp1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\HK231\HTDKN\BTL\CodeChinh\WindowsFormsApp1 (1)\WindowsFormsApp1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\HK231\HTDKN\BTL\CodeChinh\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\HK231\HTDKN\BTL\CodeChinh\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\HK231\HTDKN\BTL\CodeChinh\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\HK231\HTDKN\BTL\CodeChinh\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\HK231\HTDKN\BTL\CodeChinh\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\HK231\HTDKN\BTL\CodeChinh\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\HK231\HTDKN\BTL\CodeChinh\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\HK231\HTDKN\BTL\CodeChinh\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
